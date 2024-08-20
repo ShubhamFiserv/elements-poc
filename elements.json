@@ -1,5 +1,7 @@
 {"elements":[
     {"name":"daxe-ws-grid"},
     {"name":"daxe-grid"},
-    {"name":"daxe-input"}
+    {"name":"daxe-input"},
+    {"name":"daxe-test-ui"},
+    {"name":"daxe-chartertics-ui"}
 ]}
